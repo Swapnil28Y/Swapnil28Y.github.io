@@ -94,7 +94,7 @@ position: relative;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     /* background: url("./Resource/background.jpg") no-repeat center; */
-    background: black;
+    background: #434343;
     width: 100%;
     background-size: auto;
     height: 100vh;
@@ -103,7 +103,7 @@ position: relative;
     font-family: 'Ubuntu',sans-serif;
 }
 .home>.homeimage>img{
-    border-radius: 50%;
+    /* border-radius: 50%; */
     width: 100%;
 }
 .home .max-width{
@@ -434,7 +434,7 @@ width: 45%;
 .contact-s{
     /* padding: 40px; */
     width: 100%;
-    background: #111;
+    background: #434343;
     margin: auto;
 }
 .contactdetails{
@@ -452,7 +452,7 @@ width: 45%;
     margin-bottom: -0px;
 }
 .github{
-    background: #111;
+    background: #434343;
 }
 .github>h1{
     /* color: white; */
