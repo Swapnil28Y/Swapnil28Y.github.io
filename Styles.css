@@ -837,6 +837,9 @@ text-align: center;
     gap: 20px;
     padding: 15px;
 }
+#contactinfo{
+    color: white;
+}
 /* media responsive */
 @media (max-width:1300px ){
     .home .max-width{
