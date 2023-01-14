@@ -840,6 +840,9 @@ text-align: center;
 #contactinfo{
     color: white;
 }
+.changingsize{
+    height: 350px;
+}
 /* media responsive */
 @media (max-width:1300px ){
     .home .max-width{
